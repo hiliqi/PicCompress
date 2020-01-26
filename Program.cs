@@ -40,8 +40,7 @@ namespace PicCompress
                         Application.Run(new Main());
                     }
                 }
-            }
-            
+            }          
         }
 
         private static bool setUseTime()
