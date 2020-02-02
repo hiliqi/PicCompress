@@ -28,3 +28,5 @@ D:\开发\PicCompress\bin\Debug\System.Security.Cryptography.X509Certificates.dl
 D:\开发\PicCompress\bin\Debug\System.Xml.ReaderWriter.dll
 D:\开发\PicCompress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 D:\开发\PicCompress\obj\Debug\PicCompress.csproj.CopyComplete
+D:\开发\PicCompress\bin\Debug\WaterMarkImage.dll
+D:\开发\PicCompress\bin\Debug\WaterMarkImage.pdb
