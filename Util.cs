@@ -12,7 +12,7 @@ namespace PicCompress
     {
         public static string GetKey()
         {
-            return MD5Helper.ComputeMd5(GetMachineCodeString() + "xhx");
+            return MD5Helper.ComputeMd5(GetMachineCodeString() + "pic");
         }
 
         public static string GetMachineCodeString()

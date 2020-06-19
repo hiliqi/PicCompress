@@ -30,3 +30,4 @@ D:\开发\PicCompress\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 D:\开发\PicCompress\obj\Debug\PicCompress.csproj.CopyComplete
 D:\开发\PicCompress\bin\Debug\WaterMarkImage.dll
 D:\开发\PicCompress\bin\Debug\WaterMarkImage.pdb
+D:\开发\PicCompress\obj\Debug\PicCompress.csproj.CoreCompileInputs.cache
